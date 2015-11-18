@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/Users/arkadiuszlewandowski/Documents/ada_railway/NIEZAWODNE_SYSTEMY_INFORMATYCZNE/railway.gpr
+20151118211807
+[BOUND OBJECT FILES]
+/Users/arkadiuszlewandowski/Documents/ada_railway/NIEZAWODNE_SYSTEMY_INFORMATYCZNE/railway.o
+/Users/arkadiuszlewandowski/Documents/ada_railway/NIEZAWODNE_SYSTEMY_INFORMATYCZNE/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/Users/arkadiuszlewandowski/Documents/ada_railway/NIEZAWODNE_SYSTEMY_INFORMATYCZNE/
+-L/Users/arkadiuszlewandowski/Documents/ada_railway/NIEZAWODNE_SYSTEMY_INFORMATYCZNE/
+-L/usr/local/gnat/lib/gcc/x86_64-apple-darwin13.4.0/4.9.3/adalib/
+-static
+/usr/local/gnat/lib/gcc/x86_64-apple-darwin13.4.0/4.9.3/adalib/libgnat.a

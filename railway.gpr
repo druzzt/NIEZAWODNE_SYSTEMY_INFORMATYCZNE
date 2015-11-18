@@ -1,0 +1,6 @@
+project Railway is
+
+   for Main use ("main.adb");
+
+end Railway;
+
