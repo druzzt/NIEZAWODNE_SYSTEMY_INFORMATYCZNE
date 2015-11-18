@@ -1,0 +1,2 @@
+# NIEZAWODNE_SYSTEMY_INFORMATYCZNE
+Rozwiazania zadan z NSI
